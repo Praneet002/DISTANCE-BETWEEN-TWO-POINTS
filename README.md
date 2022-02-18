@@ -10,7 +10,6 @@ Prepare the program for distance between two points
 ### Step 3: 
 Substitute the values in the distance formula 
 
-![formula](/formula.png)
 
 ### Step 4: 
 Print the values using distance formula
